@@ -11,6 +11,9 @@ From March to July 2019, this project was hosted at https://hoyapuritytest.xyz
 
 The test was highly sucessful, with over 1,800 unique IP visits in the first month and 6,000 total visits as friends took it multiple times, encouraged their friends to try it, etc. 
 
+![Image of Facebook Comments](HoyaPurityScreenshot1.png)
+![Image of Facebook Comments](HoyaPurityScreenshot2.png)
+
 ## How it works 
 
 The main parts of the website are built in HTML, with some limited CSS formatting (this is quite limited to conserve an appearance most smilar to the barebones Rice test). JavaScript was used for the animations and to build functionality. 
