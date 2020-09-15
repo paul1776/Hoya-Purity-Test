@@ -13,6 +13,8 @@ The test was highly sucessful, with over 1,800 unique IP visits in the first mon
 
 ![Image of Facebook Comments](ResponsePhotos/HoyaPurityScreenShot1.png)
 ![Image of Facebook Comments](ResponsePhotos/HoyaPurityScreenShot2.png)
+![Image of Facebook Comments](ResponsePhotos/HoyaPurityScreenShot3.png)
+![Image of Facebook Comments](ResponsePhotos/HoyaPurityScreenShot4.png)
 
 ## How it works 
 
