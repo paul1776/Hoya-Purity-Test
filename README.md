@@ -11,8 +11,8 @@ From March to July 2019, this project was hosted at https://hoyapuritytest.xyz
 
 The test was highly sucessful, with over 1,800 unique IP visits in the first month and 6,000 total visits as friends took it multiple times, encouraged their friends to try it, etc. 
 
-![Image of Facebook Comments](HoyaPurityScreenshot1.png)
-![Image of Facebook Comments](HoyaPurityScreenshot2.png)
+![Image of Facebook Comments](HoyaPurityScreenShot1.png)
+![Image of Facebook Comments](HoyaPurityScreenShot2.png)
 
 ## How it works 
 
