@@ -20,5 +20,7 @@ The test was highly sucessful, with over 1,800 unique IP visits in the first mon
 
 The main parts of the website are built in HTML, with some limited CSS formatting (this is quite limited to conserve an appearance most smilar to the barebones Rice test). JavaScript was used for the animations and to build functionality. 
 
+![Image of Purity Test](ResponsePhotos/HoyaPurityScreenShot4.png)
+
 ## Acknowledgements
 This project was imagined, planned and built with Kelly Thomas. 
